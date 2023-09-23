@@ -43,7 +43,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranakbar5050&" alt="imranakbar5050" /></p>
 
-<div style="text-align: center; border: 2px solid black; padding: 10px;">
+ 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/@imran_akbar_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imran_akbar_5" height="30" width="40" /></a>
@@ -51,6 +51,6 @@
 <a href="https://fb.com/imran akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran akbar" height="30" width="40" /></a>
 <a href="https://instagram.com/imran_akbar_numl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_akbar_numl" height="30" width="40" /></a>
 </p>
-</div>
+<p>
+<h1 align="center"> Thanks for Visting My Profile 🖤 </h1>
 
-     
