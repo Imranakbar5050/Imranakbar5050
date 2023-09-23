@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/Imranakbar5050/Imranakbar5050/blob/main/imran%20akbar.jpg" alt="logo">
 </p>
-<h1 align="center">Hi 👋, I'm Imran Akbar</h1>
+<h1 align="center">Hi 👋, I'm Imran Akbar</blink></h1>
 <h3 align="center">Futter App Developer</h3>
 <h4 align="center">Software Engineer</h4>
 
@@ -23,15 +23,15 @@
 - 📄 1 Year experiences in the field of **Flutter App Developmnt**
 
 - 💬 Ask me about Anything
-<div style="text-align: center; border: 2px solid black; padding: 10px;">
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/@imran_akbar_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imran_akbar_5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imran-akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-akbar" height="30" width="40" /></a>
-<a href="https://fb.com/imran akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran akbar" height="30" width="40" /></a>
-<a href="https://instagram.com/imran_akbar_numl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_akbar_numl" height="30" width="40" /></a>
+
+ <h3> My Education Status 📚  </h3>
+<p>
+⌛ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.21/4.00]
+
+🏆 FSC (ICS) from Govt. Degree College, Layyah (Passout-20) [73.27%]
+
+🏆 Matric (Computer Science) from Govt. Mc High School, Layyah (Passout-17) [83.9%]
 </p>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -42,3 +42,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imranakbar5050&show_icons=true&locale=en" alt="imranakbar5050" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranakbar5050&" alt="imranakbar5050" /></p>
+
+<div style="text-align: center; border: 2px solid black; padding: 10px;">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/@imran_akbar_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imran_akbar_5" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/imran-akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-akbar" height="30" width="40" /></a>
+<a href="https://fb.com/imran akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran akbar" height="30" width="40" /></a>
+<a href="https://instagram.com/imran_akbar_numl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_akbar_numl" height="30" width="40" /></a>
+</p>
+</div>
+
+     
