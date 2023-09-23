@@ -26,11 +26,11 @@
 
  <h3> My Education Status 📚  </h3>
 <p>
-⌛ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.21/4.00]
 
-🏆 FSC (ICS) from Govt. Degree College, Layyah (Passout-20) [73.27%]
+- ⌛ BS (SE) from National University of Modern Languages, Islamabad (Passout-24) [3.21/4.00]
+- 🏆 FSC (ICS) from Govt. Degree College, Layyah (Passout-20) [73.27%]
 
-🏆 Matric (Computer Science) from Govt. Mc High School, Layyah (Passout-17) [83.9%]
+- 🏆 Matric (Computer Science) from Govt. Mc High School, Layyah (Passout-17) [83.9%]
 </p>
 
 
@@ -44,8 +44,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imranakbar5050&" alt="imranakbar5050" /></p>
 
  
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 >Connect with me:</h3>
+<p >
 <a href="https://twitter.com/@imran_akbar_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imran_akbar_5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imran-akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-akbar" height="30" width="40" /></a>
 <a href="https://fb.com/imran akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran akbar" height="30" width="40" /></a>
