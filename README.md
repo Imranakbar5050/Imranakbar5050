@@ -1,7 +1,8 @@
 <p align="center">
     <img src="https://github.com/Imranakbar5050/Imranakbar5050/blob/main/imran%20akbar.jpg" alt="logo">
 </p>
-<h1 align="center">Hi 👋, I'm Imran Akbar</blink></h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=900&center=true&vCenter=true&width=635&lines=Hi+👋+I'm+Imran+Akbar;" alt="Typing SVG" /></a> </p>
+
 <h3 align="center">Futter App Developer</h3>
 <h4 align="center">Software Engineer</h4>
 
@@ -51,6 +52,5 @@
 <a href="https://fb.com/imran akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran akbar" height="30" width="40" /></a>
 <a href="https://instagram.com/imran_akbar_numl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_akbar_numl" height="30" width="40" /></a>
 </p>
-<p>
-<h1 align="center"> Thanks for Visting My Profile 🖤 </h1>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=900&center=true&vCenter=true&width=635&lines=Thanks+for+visiting+my+profile+🖤;" alt="Typing SVG" /></a> </p>
 
