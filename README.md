@@ -59,5 +59,11 @@
 <a href="https://fb.com/imran akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran akbar" height="30" width="40" /></a>
 <a href="https://instagram.com/imran_akbar_numl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_akbar_numl" height="30" width="40" /></a>
 </p>
+
+<h3 align="right">Embedded PDF:</h3>
+<p align="right" ><a href="https://drive.google.com/file/d/1qcbFi9h4qRrAPqZ2x2lDfMyrf97aY5NE/view?usp=sharing">Download CV (PDF)</a></p>
+
+
+
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=900&center=true&vCenter=true&width=635&lines=Thanks+for+visiting+my+profile+🖤;" alt="Typing SVG" /></a> </p>
 
