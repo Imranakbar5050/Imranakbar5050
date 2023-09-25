@@ -60,6 +60,14 @@
 <a href="https://instagram.com/imran_akbar_numl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_akbar_numl" height="30" width="40" /></a>
 </p>
 
+<h3>Let's Talk about your project</h3>
+
+<p align="center">
+<a href="https://www.upwork.com/freelancers/~01670ae4560f9306df"><img src="https://img.shields.io/badge/-Imran A.-6fda44?style=flat&logo=upwork&logoColor=white"/></a>
+<a href="https://www.fiverr.com/imran_akbar_1?up_rollout=true"><img src="https://img.shields.io/badge/-@imran_akbar_1-00b22d?style=flat&logo=Fiverr&logoColor=white"/></a>
+
+</p>
+
 <h3>View/download My CV: 📫</h3>
 <p ><a href="https://drive.google.com/file/d/1qcbFi9h4qRrAPqZ2x2lDfMyrf97aY5NE/view?usp=sharing">Downlaod CV</a></p><br>
 
