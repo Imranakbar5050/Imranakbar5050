@@ -54,11 +54,12 @@
  
 <h3 >Connect with me:🔔</h3>
 <p align="center">
-<a href="https://twitter.com/@imran_akbar_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imran_akbar_5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/imran-akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-akbar" height="30" width="40" /></a>
-<a href="https://fb.com/imran akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imran akbar" height="30" width="40" /></a>
-<a href="https://instagram.com/imran_akbar_numl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imran_akbar_numl" height="30" width="40" /></a>
+<a href=" https://linkedin.com/in/imran-akbar"><img src="https://img.shields.io/badge/-Imran Akbar-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href=" https://instagram.com/imran_akbar_numl"><img src="https://img.shields.io/badge/-imran_akbar_numl-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="mailto:iranakbar620@gmail.com"><img src="https://img.shields.io/badge/-Imran Akbar-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href=" https://twitter.com/@imran_akbar_5" target="blank"><img src="https://img.shields.io/badge/-@imran_akbar_5-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
+
 
 <h3>Let's Talk about your project</h3>
 
