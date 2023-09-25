@@ -52,7 +52,7 @@
 
 
  
-<h3 >Connect with me:</h3>
+<h3 >Connect with me:🔔</h3>
 <p align="center">
 <a href="https://twitter.com/@imran_akbar_5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@imran_akbar_5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imran-akbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imran-akbar" height="30" width="40" /></a>
@@ -61,7 +61,7 @@
 </p>
 
 <h3>View/download My CV: 📫</h3>
-<p ><a href="https://drive.google.com/file/d/1qcbFi9h4qRrAPqZ2x2lDfMyrf97aY5NE/view?usp=sharing">Downlaod CV</a></p>
+<p ><a href="https://drive.google.com/file/d/1qcbFi9h4qRrAPqZ2x2lDfMyrf97aY5NE/view?usp=sharing">Downlaod CV</a></p><br>
 
 
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=900&center=true&vCenter=true&width=635&lines=Thanks+for+visiting+my+profile+🖤;" alt="Typing SVG" /></a> </p>
